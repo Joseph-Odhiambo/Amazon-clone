@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/css/main.ae50d68e.chunk.css",
+    "main.js": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/main.e3a65b74.chunk.js",
+    "main.js.map": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/main.e3a65b74.chunk.js.map",
+    "runtime-main.js": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/runtime-main.d6a3f3ae.js",
+    "runtime-main.js.map": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/runtime-main.d6a3f3ae.js.map",
+    "static/js/2.0005cbaa.chunk.js": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/2.0005cbaa.chunk.js",
+    "static/js/2.0005cbaa.chunk.js.map": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/2.0005cbaa.chunk.js.map",
+    "index.html": "/http//Joseph-Odhiambo.github.io/Amazone-clone/index.html",
+    "precache-manifest.b1fa1611d9ce83840cc2f93badf18b14.js": "/http//Joseph-Odhiambo.github.io/Amazone-clone/precache-manifest.b1fa1611d9ce83840cc2f93badf18b14.js",
+    "service-worker.js": "/http//Joseph-Odhiambo.github.io/Amazone-clone/service-worker.js",
+    "static/css/main.ae50d68e.chunk.css.map": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/css/main.ae50d68e.chunk.css.map",
+    "static/js/2.0005cbaa.chunk.js.LICENSE.txt": "/http//Joseph-Odhiambo.github.io/Amazone-clone/static/js/2.0005cbaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6a3f3ae.js",
+    "static/js/2.0005cbaa.chunk.js",
+    "static/css/main.ae50d68e.chunk.css",
+    "static/js/main.e3a65b74.chunk.js"
+  ]
+}
