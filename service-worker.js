@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/http//Joseph-Odhiambo.github.io/Amazone-clone/precache-manifest.b1fa1611d9ce83840cc2f93badf18b14.js"
+  "/http//Joseph-Odhiambo.github.io/Amazone-clone/precache-manifest.0d21c91763ef3f40b971ffe11776c003.js"
 );
 
 self.addEventListener('message', (event) => {
